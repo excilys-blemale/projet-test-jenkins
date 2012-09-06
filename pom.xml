@@ -42,8 +42,6 @@
 							<goal>execute</goal>
 						</goals>
 						<configuration>
-							<runName>Play</runName>
-                            <runName>NewPlay</runName>
 						</configuration>
 					</execution>
 				</executions>
