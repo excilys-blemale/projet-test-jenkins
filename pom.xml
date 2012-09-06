@@ -43,7 +43,7 @@
 						</goals>
 						<configuration>
                             <simulations>play.SimulationPlay</simulations>
-                            <runName>Play</runName>
+                            <runName>PlayNew</runName>
 						</configuration>
 					</execution>
 				</executions>
