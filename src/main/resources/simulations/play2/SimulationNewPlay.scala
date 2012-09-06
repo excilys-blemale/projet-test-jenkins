@@ -1,4 +1,4 @@
-package play
+package play2
 
 import com.excilys.ebi.gatling.core.Predef._
 import com.excilys.ebi.gatling.http.Predef._
