@@ -42,7 +42,8 @@
 							<goal>execute</goal>
 						</goals>
 						<configuration>
-                            <simulations>play.SimulationPlay,play2.SimulationNewPlay</simulations>
+                            <simulations>play.SimulationPlay</simulations>
+                            <runName>Play</runName>
 						</configuration>
 					</execution>
 				</executions>
